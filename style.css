@@ -1,0 +1,178 @@
+
+				*{
+					margin : 0;
+					padding : 0 0 10 0;
+					box-sizing : border-box; 
+				}
+
+				.file-01 {
+					margin: auto;
+					width: 1300;
+					height: auto;
+					max-width: 100%;
+					text-align: center;
+								}
+				.file-01 h1 a {
+					color: black;
+					text-decoration: none;
+					transition: all 0.5s;
+				}
+				.file-01 h1 a:hover {
+					color: red;
+				}
+				.file-01-box {
+					overflow: hidden;
+				}		
+				.file-01-box img:hover {
+					transform: scale(1.5);
+				}
+				
+				.file-02 {
+					width: 1300;
+					height: auto;
+					display: flex;
+					justify-content: space-between;
+					margin: auto;
+					max-width: 100%;
+					text-align: center;
+					background: aliceblue;
+					padding: 10px;
+				}
+				.file-02-item img {
+					max-width: 100%;
+					padding: 10 0 10 0;
+				}
+				.file-02-item {
+					width: 31%;
+				}
+
+				.file-02 a {
+					color: black;
+					text-decoration: none;
+					transition: all 0.5s;
+				}
+				.file-02 a:hover {
+					color: aquamarine;
+				}
+				.file-02 img:hover {
+					transform: scale(1.5);
+				}
+				.-file-02-img-item {
+					overflow: hidden;
+				}
+				
+				.file-03 {
+					width: 1300;
+					height: auto;
+					display: flex;
+					justify-content: space-between;
+					margin: auto;
+					max-width: 100%;
+					background: antiquewhite;
+					padding: 10px;
+				}					
+					.file-03-item {
+						width: 23%;
+					}
+
+					.file-03-item img {
+						max-width: 100%;
+					}
+					
+					.file-03 h1 a {
+						color: skyblue;
+						text-decoration: none;
+						transition: all 0.5s;
+					}					
+					.file-03 a:hover {
+						color: black;
+					}
+					.file-03 img:hover {
+						transform: scale(1.5);
+					}					
+					.file-03-item-img {
+						overflow: hidden;
+					}	
+				.hover-transition {
+						transition: all 0.5s;					
+				}	
+				.header {
+					width: auto;
+					height: auto;
+					margin: auto;
+					text-align: center;
+					text-spacing-trim: space-first;
+				}
+				
+				.footer {
+					width: 1600;
+					height: auto;
+					margin: auto;
+				}
+				.contact-us-item {
+					height: auto;
+					width: 1000;
+					margin: auto;
+					display: flex;
+					align-content: center;
+				}
+				h2 {
+					color: blueviolet;
+					font-size: 25;
+					text-decoration: underline;
+				}
+				.imeg-item {
+					width: 500;
+					height: auto;
+					margin: auto;
+				}
+				
+								}
+				
+				.about-us-item {
+					width: 1000;
+					height: auto;
+					margin: auto;
+					display: flex;
+				}
+				.about-us-item-img {
+					padding: 30 30 30 30;
+				}				
+				.about-us-item-text {
+					padding: 80 10 10 10;
+				}				
+
+				.header {
+					width: auto;
+					height: auto;
+					margin: auto;
+					text-align: center;
+					text-spacing-trim: space-first;
+				}
+
+				.about-us-item-img {
+					padding: 30 30 30 30;
+				}				
+				.about-us-item-text {
+					padding: 80 10 10 10;
+				}				
+
+				.header {
+					width: auto;
+					height: auto;
+					margin: auto;
+					text-align: center;
+					text-spacing-trim: space-first;
+				}
+				
+				.about-us-item {
+					display: flex;
+					width: 1000;
+					margin: auto;
+				}
+
+				.header-item-text>a {
+    text-decoration: none;
+    color: black;
+    margin: 0 9px;
+}
